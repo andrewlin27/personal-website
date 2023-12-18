@@ -3155,3 +3155,7 @@ input, select, textarea {
 
 	}
 
+	.carousel-item {
+		height: 425px;
+		overflow: hidden; 
+	  }
