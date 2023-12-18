@@ -1,6 +1,6 @@
 # Andrew Lin's Personal Website
 
-Welcome to my personal website! Here, you'll find information about my professional experiences, projects, and more.
+Welcome to my personal website, [andrew-lin.com](https://andrew-lin.com/)! Here, you'll find information about my professional experiences, projects, and more.
 
 ## Additional Links
 
