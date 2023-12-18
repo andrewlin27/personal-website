@@ -2052,8 +2052,8 @@ input, select, textarea {
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
-		color: #fff;
+		background: #ffffff;
+		color: #000000;
 		text-align: center;
 		border-radius: 0.5em;
 		text-decoration: none;
@@ -2266,9 +2266,10 @@ input, select, textarea {
 			font-size: 4em;
 		}
 
+		/* background initial color */
 		body.homepage #header:after {
 			content: '';
-			background: #1C0920;
+			background: #000000;
 			display: block;
 			position: absolute;
 			left: 0;
