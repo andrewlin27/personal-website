@@ -2173,7 +2173,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/ring.JPG");
+		background-image: url("../../images/ring.png");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
