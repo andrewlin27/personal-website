@@ -11,7 +11,7 @@ Feel free to connect with me on social media for more insights into my journey.
 
 ## Resume
 
-For a detailed overview of my professional experience and skills, you can view my resume [here](resume.pdf).
+For a detailed overview of my professional experience and skills, you can view my resume [here](Lin_Andrew.pdf).
 
 ## Contact
 
